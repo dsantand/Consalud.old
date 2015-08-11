@@ -1,0 +1,23 @@
+/Users/MauricioMunoz/ownCloud/DESARROLLOS/consalud/Android/reembolsoMovil/gen/cl/enlacedesign/reembolsoMovil/R.java \
+ : /Users/MauricioMunoz/ownCloud/DESARROLLOS/consalud/Android/reembolsoMovil/res/drawable/icon.png \
+/Users/MauricioMunoz/ownCloud/DESARROLLOS/consalud/Android/reembolsoMovil/res/drawable-hdpi/ic_launcher.png \
+/Users/MauricioMunoz/ownCloud/DESARROLLOS/consalud/Android/reembolsoMovil/res/drawable-hdpi/icon.png \
+/Users/MauricioMunoz/ownCloud/DESARROLLOS/consalud/Android/reembolsoMovil/res/drawable-ldpi/ic_launcher.png \
+/Users/MauricioMunoz/ownCloud/DESARROLLOS/consalud/Android/reembolsoMovil/res/drawable-ldpi/icon.png \
+/Users/MauricioMunoz/ownCloud/DESARROLLOS/consalud/Android/reembolsoMovil/res/drawable-mdpi/ic_launcher.png \
+/Users/MauricioMunoz/ownCloud/DESARROLLOS/consalud/Android/reembolsoMovil/res/drawable-mdpi/icon.png \
+/Users/MauricioMunoz/ownCloud/DESARROLLOS/consalud/Android/reembolsoMovil/res/drawable-xhdpi/ic_launcher.png \
+/Users/MauricioMunoz/ownCloud/DESARROLLOS/consalud/Android/reembolsoMovil/res/drawable-xhdpi/icon.png \
+/Users/MauricioMunoz/ownCloud/DESARROLLOS/consalud/Android/reembolsoMovil/res/layout/main.xml \
+/Users/MauricioMunoz/ownCloud/DESARROLLOS/consalud/Android/reembolsoMovil/res/values/strings.xml \
+/Users/MauricioMunoz/ownCloud/DESARROLLOS/consalud/Android/reembolsoMovil/res/xml/config.xml \
+/Users/MauricioMunoz/ownCloud/DESARROLLOS/consalud/Android/reembolsoMovil/bin/res/drawable/icon.png \
+/Users/MauricioMunoz/ownCloud/DESARROLLOS/consalud/Android/reembolsoMovil/bin/res/drawable-hdpi/ic_launcher.png \
+/Users/MauricioMunoz/ownCloud/DESARROLLOS/consalud/Android/reembolsoMovil/bin/res/drawable-hdpi/icon.png \
+/Users/MauricioMunoz/ownCloud/DESARROLLOS/consalud/Android/reembolsoMovil/bin/res/drawable-ldpi/ic_launcher.png \
+/Users/MauricioMunoz/ownCloud/DESARROLLOS/consalud/Android/reembolsoMovil/bin/res/drawable-ldpi/icon.png \
+/Users/MauricioMunoz/ownCloud/DESARROLLOS/consalud/Android/reembolsoMovil/bin/res/drawable-mdpi/ic_launcher.png \
+/Users/MauricioMunoz/ownCloud/DESARROLLOS/consalud/Android/reembolsoMovil/bin/res/drawable-mdpi/icon.png \
+/Users/MauricioMunoz/ownCloud/DESARROLLOS/consalud/Android/reembolsoMovil/bin/res/drawable-xhdpi/ic_launcher.png \
+/Users/MauricioMunoz/ownCloud/DESARROLLOS/consalud/Android/reembolsoMovil/bin/res/drawable-xhdpi/icon.png \
+/Users/MauricioMunoz/ownCloud/DESARROLLOS/consalud/Android/reembolsoMovil/bin/AndroidManifest.xml \
